@@ -18,8 +18,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Elegant Flora Boutique",
-  description: "Beautiful AI-powered website creation platform",
+  title: "PokeTrade Connect - Trade Pokemon Cards",
+  description: "Connect, trade, and evolve your Pokemon card collection with collectors worldwide",
 };
 
 export default function RootLayout({
