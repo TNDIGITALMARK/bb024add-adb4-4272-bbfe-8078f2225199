@@ -42,7 +42,7 @@ function TradeCard({ trade }: { trade: TradeOffer }) {
           </div>
         </div>
         <Badge className={`${status.bg} ${status.color} border-0`}>
-          <StatusIcon className="w-3 h-3 mr-12" />
+          <StatusIcon className="w-3 h-3 mr-122" />
           {status.label}
         </Badge>
       </div>
